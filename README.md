@@ -1,7 +1,7 @@
 <a href="https://nanbei-ai.store/">
   <picture>
-    <source media="(max-width: 600px)" srcset="./banner-mobile.svg">
-    <img src="./banner.svg" alt="南北 AI 店铺 — AI 工具、数字权益与订阅服务" width="100%">
+    <source media="(max-width: 600px)" srcset="https://github.com/dyp-0809/dyp-0809/raw/b0c2136916ee8657597b9105b2ddf595c7608145/banner-mobile.svg">
+    <img src="https://github.com/dyp-0809/dyp-0809/raw/b0c2136916ee8657597b9105b2ddf595c7608145/banner.svg" alt="南北 AI 店铺 — AI 工具、数字权益与订阅服务" width="100%">
   </picture>
 </a>
 
