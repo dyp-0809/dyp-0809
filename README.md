@@ -7,7 +7,7 @@
 
 **[浏览商品 ↗](https://nanbei-ai.store/)**　 [订单查询](https://nanbei-ai.store/user/index/query)　 [帮助中心](https://nanbei-ai.store/user/help/index)
 
-我是南北，前端工程师，也在经营南北 AI 店铺。这里放店铺介绍和自己整理的工具教程。
+我是南北（Nanbei），做 Agent 开发，关注 AI Agent（智能体）的实际应用，也在经营南北 AI 店铺。这里放店铺介绍和自己整理的工具教程。
 
 ### 店铺与服务
 
@@ -25,4 +25,4 @@ macOS / Windows 分开讲解，配有截图和流程图。第一次使用，先�
 
 <br>
 
-<sub>前端开发与工具使用记录，见下方项目。教程问题可在对应仓库的 Issues 中反馈。</sub>
+<sub>Agent 开发与工具使用记录，见下方项目。教程问题可在对应仓库的 Issues 中反馈。</sub>
