@@ -1,19 +1,18 @@
-<a href="https://nanbei-ai.store/">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github.com/dyp-0809/dyp-0809/raw/b0c2136916ee8657597b9105b2ddf595c7608145/banner-mobile.svg">
-    <img src="https://github.com/dyp-0809/dyp-0809/raw/b0c2136916ee8657597b9105b2ddf595c7608145/banner.svg" alt="南北 AI 店铺 — AI 工具、数字权益与订阅服务" width="100%">
-  </picture>
-</a>
+<picture>
+  <source media="(max-width: 600px)" srcset="./shop-profile-mobile.svg">
+  <img src="./shop-profile.svg" alt="南北 Nanbei · Agent 开发、工具教程与南北 AI 店铺" width="100%">
+</picture>
 
-**[浏览商品 ↗](https://nanbei-ai.store/)**　 [订单查询](https://nanbei-ai.store/user/index/query)　 [帮助中心](https://nanbei-ai.store/user/help/index)
+**[主店铺 · nanbei-ai.store ↗](https://nanbei-ai.store/)**  
+**[备用店铺 · nanbei.ka8.ai ↗](https://nanbei.ka8.ai/)**
 
 我是南北（Nanbei），做 Agent 开发，关注 AI Agent（智能体）的实际应用，也在经营南北 AI 店铺。这里放店铺介绍和自己整理的工具教程。
 
 ### 店铺与服务
 
-AI 工具、数字权益与订阅相关商品，按分类选购。交付方式、账号条件、有效期和售后范围，都在商品页面说明。
+两家店铺都可以浏览 AI 工具和订阅相关商品。库存、适用地区、交付方式和售后以各店说明为准。
 
-有选购或订单问题，可以从店铺右下角联系在线客服。
+查询订单请回到下单的店铺。[主店订单](https://nanbei-ai.store/user/index/query) · [备用店订单](https://nanbei.ka8.ai/me/orders) · [主店帮助中心](https://nanbei-ai.store/user/help/index)
 
 [查看店铺介绍](https://github.com/dyp-0809/nanbei-ai-promotion) · [Gitee 镜像](https://gitee.com/zdhdyp/nanbei-ai-promotion)
 
