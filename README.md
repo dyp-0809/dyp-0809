@@ -10,7 +10,12 @@
 
 ### 店铺与服务
 
-两家店铺都可以浏览 AI 工具和订阅相关商品。库存、适用地区、交付方式和售后以各店说明为准。
+南北 AI 店铺提供 **AI 会员代充、代订阅**。如果想继续用自己的账号，可以先看商品是否支持原账号充值。
+
+- **主店**可查看 ChatGPT Go、Plus、Pro 的充值方案，以及 Claude、Gemini 等工具的会员方案。
+- **备用店**可查看 ChatGPT Go、Plus、Pro 的自助充值方案，部分商品通过卡密或充值链接交付。
+
+下单前请核对账号地区、订阅时长、交付方式和售后范围。同一会员在两站可能有不同规格。
 
 查询订单请回到下单的店铺。[主店订单](https://nanbei-ai.store/user/index/query) · [备用店订单](https://nanbei.ka8.ai/me/orders) · [主店帮助中心](https://nanbei-ai.store/user/help/index)
 
